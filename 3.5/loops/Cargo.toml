@@ -1,0 +1,6 @@
+[package]
+name = "loops"
+version = "0.1.0"
+authors = ["GrooveStomp <aaron.oman@gmail.com>"]
+
+[dependencies]
